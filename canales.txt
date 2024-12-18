@@ -67,3 +67,14 @@ Flooxer,Flooxer
 Paramount Network,Paramount Network
 Sundance TV,Sundance TV
 DKISS,DKISS
+MTV España,MTV España
+Ten,Ten
+Be Mad,BE MAD
+Atreseries,Atreseries
+Neox,Neox
+Nova,Nova
+Energy,Energy
+TRECE,TRECE
+Divinity,Divinity
+Factoría de Ficción,Factoría de Ficción
+Mega,Mega
