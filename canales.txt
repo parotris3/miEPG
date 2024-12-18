@@ -1,28 +1,28 @@
 La 1 HD,La 1 HD
 La 2,La 2
-Antena 3,Antena 3
-Cuatro,Cuatro
-Telecinco,Telecinco
-La Sexta,La Sexta
+Antena 3 HD,Antena 3
+Cuatro HD,Cuatro
+Telecinco HD,Telecinco
+La Sexta HD,La Sexta
 TVG,TVG
-TVG2,TVG2
+TVG2,TVG 2
 TPA7 Asturias,TPA7 Asturias
 TPA8 Asturias,TPA8 Asturias
-M+ Vamos,M+ Vamos
-M+ Ellas Vamos,M+ Ellas Vamos
-Movistar Plus+,Movistar Plus+
-Movistar Plus+ 2,Movistar Plus+ 2
-M+ Originales,M+ Originales
-M+ Documentales,M+ Documentales
-M+ Cine,M+ Cine
-M+ Comedia,M+ Comedia
-M+ Drama,M+ Drama
-M+ Acción,M+ Acción
+M+ Vamos HD,M+ Vamos
+M+ Ellas Vamos HD,M+ Ellas Vamos
+Movistar Plus+ HD,Movistar Plus+
+Movistar Plus+ 2 HD,Movistar Plus+ 2
+M+ Originales HD,M+ Originales
+M+ Documentales HD,M+ Documentales
+M+ Cine HD,M+ Cine
+M+ Comedia HD,M+ Comedia
+M+ Drama HD,M+ Drama
+M+ Acción HD,M+ Acción
 M+ PopUp,M+ PopUp
 M+ PopUp 2,M+ PopUp 2
-M+ Clásicos,M+ Clásicos
+M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
-M+ Indie,M+ Indie
+M+ Indie HD,M+ Indie
 Love TV Trailers, Love TV Trailers
 Pluto TV Cine Comedia,Pluto TV Cine Comedia
 Pluto TV Cine Romántico,Pluto TV Cine Romántico
