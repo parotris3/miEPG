@@ -49,3 +49,21 @@ M+ Series HD,M+ Series
 STAR Channel HD,STAR Channel
 Max Avances,Max Avances
 AXN HD,AXN
+AXN Movies HD,AXN Movies
+Warner TV HD,Warner TV
+SkyShowtime,SkyShowtime
+AMC HD,AMC
+AMC Break,AMC Break
+AMC Crime,AMC Crime
+SELEKT,SELEKT
+Calle 13 HD,Calle 13
+DARK,DARK
+SyFy HD,SYFY
+XTRM,XTRM
+Cosmo HD,COSMO
+Comedy Central HD,Comedy Central
+La Resistencia 24H,La Resistencia 24H
+Flooxer,Flooxer
+Paramount Network,Paramount Network
+Sundance TV,Sundance TV
+DKISS,DKISS
