@@ -23,9 +23,9 @@ M+ PopUp 2,M+ PopUp 2
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
 M+ Indie HD,M+ Indie
-Love TV Trailers, Love TV Trailers
+Love TV Trailers, Trailers
 5f1ac8099c49f600076579b2,Pluto TV Cine Comedia
-655b5d865812e80008843bd1,Pluto TV Comedias Románticas
+655b5d865812e80008843bd1,Pluto TV Cine Comedias Románticas
 5f1ac9a2d3611d0007a844bb,Pluto TV Cine Romántico
 5f1ac947dcd00d0007937c08,Pluto TV Cine Drama
 61373bb45168fe000773eecd,Pluto TV Cine Clásico
@@ -88,7 +88,7 @@ Qello Concerts,Qello Concerts
 60a26a056d55b30007918d5a,MTV Music Made in Spain
 Mezzo,Mezzo
 Mezzo Live HD,Mezzo Live
-Classica HD, Classica
+Classica HD,Classica
 National Geographic HD,National Geographic
 Nat Geo Wild HD,Nat Geo Wild
 NatureTime,NatureTime
@@ -123,18 +123,18 @@ Dreamworks HD,Dreamworks
 24 Horas,24 Horas
 EuroNews,Euronews
 Teledeporte,Teledeporte
-GOL PLAY;GOL PLAY
+GOL PLAY,GOL PLAY
 Real Madrid TV,Real Madrid TV
 Eurosport 1 HD,Eurosport 1
-Eurosport 2;Eurosport 2
-DAZN 1 HD,DAZN 1 
+Eurosport 2,Eurosport 2
+DAZN 1 HD,DAZN 1
 DAZN 2 HD,DAZN 2
 DAZN 3 HD,DAZN 3
 DAZN 4 HD,DAZN 4
-DAZN F1 HD, DAZN F1
+DAZN F1 HD,DAZN F1
 DAZN LaLiga HD,DAZN LaLiga
 DAZN LaLiga 2 HD,DAZN LaLiga 2
-M+ LaLiga TV HD;M+ LALIGA TV
+M+ LaLiga TV HD,M+ LALIGA TV
 M+ LaLiga TV UHD,M+ LALIGA TV UHD
 M+ LaLiga TV 2 HD,M+ LALIGA TV 2
 M+ LaLiga TV 3 HD,M+ LALIGA TV 3
@@ -144,7 +144,7 @@ LaLiga TV Hypermotion 2,LALIGA TV HYPERMOTION 2
 LaLiga TV Hypermotion 3,LALIGA TV HYPERMOTION 3
 M+ Liga de Campeones HD,M+ Liga de Campeones
 M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2
-M+ Liga de Campeones 3,M+ Liga de Campeones 3
+M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3
 M+ Liga de Campeones 4,M+ Liga de Campeones 4
 M+ Liga de Campeones 5,M+ Liga de Campeones 5
 M+ Liga de Campeones 6,M+ Liga de Campeones 6
@@ -159,12 +159,12 @@ M+ Deportes HD,M+ Deportes
 M+ Deportes 2 HD,M+ Deportes 2
 M+ Deportes 3,M+ Deportes 3
 M+ Deportes 4,M+ Deportes 4
-M+ Deportes 5;M+ Deportes 5
+M+ Deportes 5,M+ Deportes 5
 M+ Deportes 6,M+ Deportes 6
 M+ Deportes 7,M+ Deportes 7
 M+ Deportes 8,M+ Deportes 8
 M+ Golf HD,M+ Golf
-M+ Golf 2HD,M+ Golf 2
+M+ Golf 2 HD,M+ Golf 2
 PT | DAZN 1,DAZN 1 Portugal
 PT | DAZN 2,DAZN 2 Portugal
 PT | DAZN 3,DAZN 3 Portugal
