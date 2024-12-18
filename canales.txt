@@ -8,3 +8,43 @@ TVG,TVG
 TVG2,TVG2
 TPA7 Asturias,TPA7 Asturias
 TPA8 Asturias,TPA8 Asturias
+M+ Vamos,M+ Vamos
+M+ Ellas Vamos,M+ Ellas Vamos
+Movistar Plus+,Movistar Plus+
+Movistar Plus+ 2,Movistar Plus+ 2
+M+ Originales,M+ Originales
+M+ Documentales,M+ Documentales
+M+ Cine,M+ Cine
+M+ Comedia,M+ Comedia
+M+ Drama,M+ Drama
+M+ Acción,M+ Acción
+M+ PopUp,M+ PopUp
+M+ PopUp 2,M+ PopUp 2
+M+ Clásicos,M+ Clásicos
+M+ Cine Español,M+ Cine Español
+M+ Indie,M+ Indie
+Love TV Trailers, Love TV Trailers
+Pluto TV Cine Comedia,Pluto TV Cine Comedia
+Pluto TV Cine Romántico,Pluto TV Cine Romántico
+Pluto TV Cine Drama,Pluto TV Cine Drama
+Pluto TV Cine Clásico,Pluto TV Cine Clásico
+Pluto TV Cine Estelar,Pluto TV Cine Estelar
+Pluto TV Cine Acción,Pluto TV Cine Acción
+Pluto TV Western,Pluto TV Western
+Poirot & Miss Marple,Poirot & Miss Marple
+Bom Cine,Bom Cine
+Somos,Somos
+Cines Verdi TV,Cines Verdi TV
+Cine Feel Good,Cine Feel Good
+acontra+,acontra+
+Clásicos atresplayer,Clásicos atresplayer
+Multicine atresplayer,Multicine atresplayer
+Comedia atresplayer,Comedia atresplayer
+Inquietos atresplayer,Inquietos atresplayer
+ATRESplayer PREMIUM,ATRESplayer PREMIUM
+TCM,TCM
+Canal Hollywood,Canal Hollywood
+M+ Series,M+ Series
+STAR Channel,STAR Channel
+Max Avances,Max Avances
+AXN,AXN
