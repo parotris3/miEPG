@@ -89,3 +89,12 @@ Qello Concerts,Qello Concerts
 Mezzo,Mezzo
 Mezzo Live HD,Mezzo Live
 Classica HD, Classica
+National Geographic HD,National Geographic
+Nat Geo Wild HD,Nat Geo Wild
+NatureTime,NatureTime
+600ae6a78d801e0007117d21,Pluto TV Animales
+64db2e0835425100080f2f5a,Pluto TV Diseño
+ESBA330004121,Wild Earth
+Odisea
+Historia
+Pluto TV Historia
