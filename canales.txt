@@ -24,8 +24,8 @@ M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
 M+ Indie HD,M+ Indie
 Love TV Trailers, Love TV Trailers
-Pluto TV Cine Comedia,Pluto TV Cine Comedia
-Pluto TV Cine Romántico,Pluto TV Cine Romántico
+5f1ac8099c49f600076579b2,Pluto TV Cine Comedia
+5f1ac9a2d3611d0007a844bb,Pluto TV Cine Romántico
 Pluto TV Cine Drama,Pluto TV Cine Drama
 Pluto TV Cine Clásico,Pluto TV Cine Clásico
 Pluto TV Cine Estelar,Pluto TV Cine Estelar
