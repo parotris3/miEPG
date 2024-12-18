@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/es.xml
