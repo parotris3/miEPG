@@ -26,13 +26,13 @@ M+ Indie HD,M+ Indie
 Love TV Trailers, Love TV Trailers
 5f1ac8099c49f600076579b2,Pluto TV Cine Comedia
 5f1ac9a2d3611d0007a844bb,Pluto TV Cine Romántico
-Pluto TV Cine Drama,Pluto TV Cine Drama
-Pluto TV Cine Clásico,Pluto TV Cine Clásico
-Pluto TV Cine Estelar,Pluto TV Cine Estelar
-Pluto TV Cine Acción,Pluto TV Cine Acción
-Pluto TV Western,Pluto TV Western
-Poirot & Miss Marple,Poirot & Miss Marple
-Bom Cine,Bom Cine
+5f1ac947dcd00d0007937c08,Pluto TV Cine Drama
+61373bb45168fe000773eecd,Pluto TV Cine Clásico
+5f1ac1f1b66c76000790ef27,Pluto TV Cine Estelar
+5f1ac2591dd8880007bb7d6d,Pluto TV Cine Acción
+6385e82900ab2e000768a058,Pluto TV Western
+6304f530440dc90007f514d3,Poirot & Miss Marple
+BOM Cine,Bom Cine
 Somos,Somos
 Cines Verdi TV,Cines Verdi TV
 Cine Feel Good,Cine Feel Good
@@ -42,9 +42,9 @@ Multicine atresplayer,Multicine atresplayer
 Comedia atresplayer,Comedia atresplayer
 Inquietos atresplayer,Inquietos atresplayer
 ATRESplayer PREMIUM,ATRESplayer PREMIUM
-TCM,TCM
-Canal Hollywood,Canal Hollywood
-M+ Series,M+ Series
-STAR Channel,STAR Channel
+TCM HD,TCM
+Canal Hollywood HD,Canal Hollywood
+M+ Series HD,M+ Series
+STAR Channel HD,STAR Channel
 Max Avances,Max Avances
-AXN,AXN
+AXN HD,AXN
