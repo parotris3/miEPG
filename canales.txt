@@ -78,3 +78,14 @@ TRECE,TRECE
 Divinity,Divinity
 Factoría de Ficción,Factoría de Ficción
 Mega,Mega
+MTV 00s,MTV 00s
+MTV Hits HD,MTV Hits
+Sol Música,Sol Música
+HIT TV,HIT TV
+6076cd1df8576d0007c82193,VH1 Classics
+Qello Concerts,Qello Concerts
+61ea759737679900078ff559,MTV Party Music
+60a26a056d55b30007918d5a,MTV Music Made in Spain
+Mezzo,Mezzo
+Mezzo Live HD,Mezzo Live
+Classica HD, Classica
