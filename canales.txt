@@ -25,6 +25,7 @@ M+ Cine Español,M+ Cine Español
 M+ Indie HD,M+ Indie
 Love TV Trailers, Love TV Trailers
 5f1ac8099c49f600076579b2,Pluto TV Cine Comedia
+655b5d865812e80008843bd1,Pluto TV Comedias Románticas
 5f1ac9a2d3611d0007a844bb,Pluto TV Cine Romántico
 5f1ac947dcd00d0007937c08,Pluto TV Cine Drama
 61373bb45168fe000773eecd,Pluto TV Cine Clásico
