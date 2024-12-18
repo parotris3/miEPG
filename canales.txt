@@ -171,3 +171,8 @@ PT | DAZN 3,DAZN 3 Portugal
 PT | DAZN 4,DAZN 4 Portugal
 PT | DAZN 5,DAZN 5 Portugal
 PT | DAZN 6,DAZN 6 Portugal
+5f984fdc470d460007a67094,MTV Hits Navidad
+5f984b18dfe75800070e8645,Pluto TV Cine Navideño
+65786abdb3801200084c593a,Homeful
+65786d29dfed030008ce2fa7,MTV Rock
+668677f7fd9eb200087b673a,MTV Biggest Pop
