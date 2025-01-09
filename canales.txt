@@ -114,7 +114,7 @@ Iberalia TV,Iberalia TV
 Clan,Clan
 Boing,Boing
 Baby TV,Baby TV
-Disney Channel HD,Disney Channel
+Squirrel TV,Squirrel TV
 Disney Junior,Disney Junior
 Enfamilia,Enfamilia
 Nickelodeon HD,Nickelodeon
