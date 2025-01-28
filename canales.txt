@@ -14,7 +14,7 @@ Movistar Plus+ HD,Movistar Plus+
 Movistar Plus+ 2 HD,Movistar Plus+ 2
 M+ Originales HD,M+ Originales
 M+ Documentales HD,M+ Documentales
-M+ Cine HD,M+ Cine
+M+ Estrenos HD,M+ Estrenos HD
 M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
@@ -45,7 +45,7 @@ Inquietos atresplayer,Inquietos atresplayer
 ATRESplayer PREMIUM,ATRESplayer PREMIUM
 TCM HD,TCM
 Canal Hollywood HD,Canal Hollywood
-M+ Series HD,M+ Series
+M+ Hits HD,M+ Hits HD
 STAR Channel HD,STAR Channel
 Max Avances,Max Avances
 AXN HD,AXN
