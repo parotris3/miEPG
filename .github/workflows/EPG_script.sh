@@ -58,5 +58,5 @@ echo "<tv generator-info-name=\"miEPG $date_stamp\" generator-info-url=\"https:/
 cat EPG_temp1.xml >> miEPG.xml
 cat EPG_temp2.xml >> miEPG.xml
 echo '</tv>' >> miEPG.xml
-
+gzip -k miEPG.xml
 rm -f EPG_temp*
