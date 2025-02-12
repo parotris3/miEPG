@@ -32,7 +32,7 @@ Love TV Trailers,Trailers
 5f1ac1f1b66c76000790ef27,Pluto TV Cine Estelar
 5f1ac2591dd8880007bb7d6d,Pluto TV Cine Acción
 6385e82900ab2e000768a058,Pluto TV Western
-6304f530440dc90007f514d3,Poirot & Miss Marple
+6304f530440dc90007f514d3,Poirot y Miss Marple
 BOM Cine,Bom Cine
 Somos,Somos
 Cines Verdi TV,Cines Verdi TV
