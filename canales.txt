@@ -106,6 +106,7 @@ BuenViaje,BuenViaje
 De Viajes,RTVE De Viajes
 60c343ad476ec00007c2ec1a,Pluto TV Viajes
 622f42b831233300078658cc,Ciudadanos por el mundo
+Viajes y Sabores,Viajes y Sabores
 Canal Cocina,Canal Cocina
 5f1acdaa8ba90f0007d5e760,Pluto TV Cocina
 Decasa,Decasa
