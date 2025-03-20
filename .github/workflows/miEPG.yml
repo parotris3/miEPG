@@ -34,7 +34,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git pull origin main --rebase
+          git add .
           git add canales.txt
           git commit -m "Update canales.txt (automated)" --allow-empty
           git push
