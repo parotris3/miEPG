@@ -59,9 +59,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git pull origin main --rebase
-          git add miEPG.xml.gz  # Solo agrega el archivo .gz
-          git commit -m "Update miEPG.xml.gz (automated)" --allow-empty
-          git push --force
+          git pull origin main
+          git add miEPG.xml # Solo agrega el archivo .gz
+          git commit -m "Update miEPG.xml(automated)" --allow-empty
+          git push
                  
         shell: bash
