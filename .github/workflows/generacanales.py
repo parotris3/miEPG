@@ -66,8 +66,8 @@ M+ Estrenos HD,M+ Estrenos HD
 M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
-NOMBREPOPUP,NOMBREPOPUP,URLLOGOPOPUP
-NOMBREPOP2,NOMBREPOP2,URLLOGOPOPUP2
+NOMBREPOPUP,NOMBREPOPUP
+NOMBREPOP2,NOMBREPOP2
 M+ PopUp,M+ PopUp 
 M+ PopUp 2,M+ PopUp 2
 M+ Clásicos HD,M+ Clásicos
@@ -238,19 +238,19 @@ Runtime Romance,Runtime Romance,https://img.static-ottera.com/prod/run/linear_ch
 MTV Live,MTV Live
 """
 
-    nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
-    nombre_popup2, logo_popup2 = obtener_datos_canal(5252)
+    nombre_popup1 = obtener_datos_canal(4955)
+    nombre_popup2 = obtener_datos_canal(5252)
 
-    if nombre_popup1 and logo_popup1:
+    if nombre_popup1:
         contenido_base = contenido_base.replace("NOMBREPOPUP", nombre_popup1)
-        contenido_base = contenido_base.replace("URLLOGOPOPUP", logo_popup1)
+
     else:
         print("No se pudieron obtener los datos para el primer popup.")
         return  # Sale de la función si no se pueden obtener los datos
 
-    if nombre_popup2 and logo_popup2:
+    if nombre_popup2:
         contenido_base = contenido_base.replace("NOMBREPOP2", nombre_popup2)
-        contenido_base = contenido_base.replace("URLLOGOPOPUP2", logo_popup2)
+
     else:
         print("No se pudieron obtener los datos para el segundo popup.")
         return
