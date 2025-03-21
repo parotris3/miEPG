@@ -66,10 +66,10 @@ M+ Estrenos HD,M+ Estrenos HD
 M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
-NOMBREPOPUP,NOMBREPOPUP
-NOMBREPOP2,NOMBREPOP2
-M+ PopUp,M+ PopUp 
-M+ PopUp 2,M+ PopUp 2
+NOMBREPOPUP,NOMBREPOPUP,URLLOGOPOPUP
+NOMBREPOP2,NOMBREPOP2,URLLOGOPOPUP2
+M+ PopUp,M+ PopUp,URLLOGOPOPUP 
+M+ PopUp 2,M+ PopUp 2,URLLOGOPOPUP2
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
 M+ Indie HD,M+ Indie
