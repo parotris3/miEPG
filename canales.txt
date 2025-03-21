@@ -19,9 +19,9 @@ M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
 M+ Los 90,M+ Los 90,https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ML90
-M+ Musicales,M+ Musicales,https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ML902
+M+ Musicales,M+ Musicales,https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MEPOCA
 M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ML90 
-M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ML902
+M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MEPOCA
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
 M+ Indie HD,M+ Indie
