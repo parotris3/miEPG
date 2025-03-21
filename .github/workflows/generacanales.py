@@ -67,9 +67,9 @@ M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
 NOMBREPOPUP,NOMBREPOPUP,URLLOGOPOPUP
-NOMBREPOP2,NOMBREPOP2,URLLOGOPOPUP2
+NOMBREPOP2,NOMBREPOP2,URLLOGOPOP2
 M+ PopUp,M+ PopUp,URLLOGOPOPUP 
-M+ PopUp 2,M+ PopUp 2,URLLOGOPOPUP2
+M+ PopUp 2,M+ PopUp 2,URLLOGOPOP2
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
 M+ Indie HD,M+ Indie
@@ -250,7 +250,7 @@ MTV Live,MTV Live
 
     if nombre_popup2 and logo_popup2:
         contenido_base = contenido_base.replace("NOMBREPOP2", nombre_popup2)
-        contenido_base = contenido_base.replace("URLLOGOPOPUP2", logo_popup2)
+        contenido_base = contenido_base.replace("URLLOGOPOP2", logo_popup2)
     else:
         print("No se pudieron obtener los datos para el segundo popup.")
         return
