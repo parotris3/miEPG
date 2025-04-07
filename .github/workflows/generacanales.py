@@ -236,6 +236,8 @@ Runtime Familia,Runtime Familia,https://img.static-ottera.com/prod/run/linear_ch
 Runtime Comedia,Runtime Comedia,https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg
 Runtime Romance,Runtime Romance,https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg
 MTV Live,MTV Live
+M+ Liga de Campeones HDR,M+ Liga de Campeones HDR
+M+ Liga de Campeones 2 HDR,M+ Liga de Campeones 2 HDR
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
