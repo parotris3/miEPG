@@ -156,7 +156,7 @@ BuenViaje,BuenViaje
 De Viajes,RTVE De Viajes
 60c343ad476ec00007c2ec1a,Pluto TV Viajes
 622f42b831233300078658cc,Ciudadanos por el mundo
-Viajes y Sabores,Viajes y Sabores,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250218T040000SQUARE.png
+Viajes y Sabores,Viajes y Sabores,https://www.tivify.es/wp-content/uploads/2025/02/Viajes-y-Sabores-Logo-Web-300x300.png
 Canal Cocina,Canal Cocina
 5f1acdaa8ba90f0007d5e760,Pluto TV Cocina
 Decasa,Decasa
