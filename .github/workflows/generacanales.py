@@ -1,6 +1,6 @@
 import requests
 
-def obtener_datos_canal(cas_id, url="https://raw.githubusercontent.com/parotris3/Mfeed/refs/heads/main/ott.csv"):
+def obtener_datos_canal(cas_id, url="https://raw.githubusercontent.com/parotris3/Mfeed/refs/heads/main/difusion.csv"):
     """Obtiene el nombre y el logo de un canal a partir de su CasId desde un CSV en línea.
 
     Args:
