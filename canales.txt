@@ -18,10 +18,10 @@ M+ Estrenos HD,M+ Estrenos HD
 M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
-M+ Los 90,M+ Los 90,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/ML90
-Musicales por M+,Musicales por M+,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MMUSIC
-M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/ML90
-M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MMUSIC
+M+E: Tom Cruise,M+E: Tom Cruise,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCRUIS
+M+ Comedia Ñ,M+ Comedia Ñ,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MESPA%C3%91
+M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCRUIS
+M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MESPA%C3%91
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
 M+ Indie HD,M+ Indie
@@ -108,7 +108,7 @@ BuenViaje,BuenViaje
 De Viajes,RTVE De Viajes
 60c343ad476ec00007c2ec1a,Pluto TV Viajes
 622f42b831233300078658cc,Ciudadanos por el mundo
-Viajes y Sabores,Viajes y Sabores,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250218T040000SQUARE.png
+Viajes y Sabores,Viajes y Sabores,https://www.tivify.es/wp-content/uploads/2025/02/Viajes-y-Sabores-Logo-Web-300x300.png
 Canal Cocina,Canal Cocina
 5f1acdaa8ba90f0007d5e760,Pluto TV Cocina
 Decasa,Decasa
