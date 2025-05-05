@@ -1,7 +1,9 @@
 import requests
+import csv  # Importa el módulo csv
+import io   # Necesario para tratar el texto como un archivo
 
 def obtener_datos_canal(cas_id, url="https://raw.githubusercontent.com/parotris3/Mfeed/refs/heads/main/difusion.csv"):
-    """Obtiene el nombre y el logo de un canal a partir de su CasId desde un CSV en línea.
+    """Obtiene el nombre y el logo de un canal a partir de su CasId desde un CSV en línea usando el módulo csv.
 
     Args:
         cas_id: El CasId del canal a buscar.
@@ -12,67 +14,59 @@ def obtener_datos_canal(cas_id, url="https://raw.githubusercontent.com/parotris3
     """
     try:
         response = requests.get(url)
-        response.raise_for_status()  # Lanza una excepción si hay un error HTTP
+        response.raise_for_status()
 
-        # Decodifica explícitamente usando utf-8-sig para manejar BOM y obtener texto
         try:
-            # Usar response.content y decodificar manualmente es más seguro
             decoded_text = response.content.decode('utf-8-sig')
         except UnicodeDecodeError:
-            # Si falla utf-8-sig, intenta con utf-8 normal o el detectado por requests
             print("Advertencia: No se pudo decodificar como utf-8-sig, intentando con la detección automática.")
             decoded_text = response.text
 
-        lines = decoded_text.strip().split('\n')
+        # Usa io.StringIO para que el módulo csv pueda leer el texto como si fuera un archivo
+        csv_file = io.StringIO(decoded_text)
 
-        if not lines or not lines[0]: # Comprueba si hay cabecera
-             print("Error: El archivo CSV está vacío o no tiene cabecera.")
-             return None, None
+        # Crea un lector csv. Automáticamente maneja las comillas (quotechar='"')
+        reader = csv.reader(csv_file, delimiter=',', quotechar='"')
 
-        # Divide la cabecera y limpia espacios en blanco de cada elemento
-        raw_header = lines[0].split(',')
-        header = [h.strip() for h in raw_header]
-        print(f"DEBUG: Cabecera procesada: {header}") # Línea de depuración útil
+        # Lee la cabecera
+        try:
+            header = next(reader) # Lee la primera fila (cabecera)
+            print(f"DEBUG: Cabecera leída por csv.reader: {header}")
+        except StopIteration:
+            print("Error: Archivo CSV vacío.")
+            return None, None
 
-        # Encuentra los índices de las columnas relevantes
+        # Encuentra los índices (los nombres en 'header' ya están limpios, sin comillas)
         try:
             casid_index = header.index('CasId')
             nombre_index = header.index('Nombre')
             logo_index = header.index('Logo')
         except ValueError as e:
-            # Si una columna no se encuentra, imprime un error más específico
             print(f"Error: Columna no encontrada en la cabecera. Cabecera={header}. Error: {e}")
             return None, None
 
-        for line in lines[1:]:
-            if not line.strip(): # Saltar líneas vacías
-                continue
-            values = line.split(',')
-             # Asegúrate de que la línea tiene suficientes columnas antes de acceder a los índices
-            if len(values) > max(casid_index, nombre_index, logo_index):
-                # Compara también limpiando espacios en el CasId del archivo
-                if values[casid_index].strip() == str(cas_id):
-                    # Limpia espacios también al obtener nombre y logo
-                    nombre = values[nombre_index].strip()
-                    logo = values[logo_index].strip()
+        # Itera sobre las filas de datos restantes
+        for row in reader:
+            # 'row' es una lista de strings ya limpios (sin comillas)
+            if len(row) > max(casid_index, nombre_index, logo_index):
+                if row[casid_index] == str(cas_id): # Compara directamente
+                    nombre = row[nombre_index]
+                    logo = row[logo_index]
                     return nombre, logo
             else:
-                 print(f"Advertencia: Línea saltada por tener pocas columnas: {line}")
-
+                print(f"Advertencia: Fila saltada por tener pocas columnas: {row}")
 
         return None, None  # No se encontró el CasId
 
     except requests.exceptions.RequestException as e:
         print(f"Error al obtener datos desde la URL: {e}")
         return None, None
-    except IndexError as e:
-         # Este error ahora es menos probable con la comprobación len(values)
-        print(f"Error de índice al procesar una línea del CSV: {e}")
+    except (ValueError, IndexError, csv.Error) as e: # Añade csv.Error a las excepciones
+        print(f"Error al procesar el archivo CSV: {e}")
         return None, None
-    except Exception as e: # Captura genérica para otros errores inesperados
-         print(f"Error inesperado procesando el archivo CSV: {e}")
-         return None, None
-
+    except Exception as e:
+        print(f"Error inesperado procesando el archivo CSV: {e}")
+        return None, None
 
 
 
