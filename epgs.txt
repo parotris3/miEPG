@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/parotris3/epg-popups/refs/heads/main/popups.xml
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/tiviepg.xml
