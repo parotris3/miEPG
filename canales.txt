@@ -89,7 +89,7 @@ Qello Concerts,Qello Concerts
 61ea759737679900078ff559,MTV Party Music
 60a26a056d55b30007918d5a,MTV Music Made in Spain
 NOW 70s,NOW 70s
-NOW 80s,NOW 80s
+NOW 80's,NOW 80s
 NOW Rock,NOW Rock
 Mezzo,Mezzo
 Mezzo Live HD,Mezzo Live
