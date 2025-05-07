@@ -9,7 +9,7 @@ TVG2,TVG 2
 TPA7 Asturias,TPA7 Asturias
 TPA8 Asturias,TPA8 Asturias
 M+ Vamos HD,M+ Vamos
-M+ Ellas Vamos HD,M+ Ellas Vamos
+M+ Ellas Vamos HD,M+ Ellas V
 Movistar Plus+ HD,Movistar Plus+
 Movistar Plus+ 2 HD,Movistar Plus+ 2
 M+ Originales HD,M+ Originales
