@@ -194,7 +194,7 @@ DMAX,DMAX
 Discovery,Discovery
 Caza y Pesca HD,Caza y Pesca
 Iberalia TV,Iberalia TV
-Clan,Clan
+Clan,Clan,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png
 Boing,Boing
 Baby TV,Baby TV
 Squirrel TV,Squirrel TV
