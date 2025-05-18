@@ -75,7 +75,7 @@ def crear_archivo_canales(nombre_archivo="canales.txt"):
        reemplazando los valores de los popups.
     """
 
-    contenido_base = """La 1 HD,La 1 HD
+    contenido_base = """La 1 HD,La 1
 La 2,La 2
 Antena 3 HD,Antena 3
 Cuatro HD,Cuatro
