@@ -19,9 +19,9 @@ M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
 M+ Thriller,M+ Thriller,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTHRI
-M+ Comedia Ñ,M+ Comedia Ñ,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MESPA%C3%91
+M+ Todo Chaplin,M+ Todo Chaplin,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCHAP
 M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTHRI
-M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MESPA%C3%91
+M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCHAP
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
 M+ Indie HD,M+ Indie
