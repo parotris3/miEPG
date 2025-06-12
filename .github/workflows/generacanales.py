@@ -267,6 +267,7 @@ Runtime Romance,Runtime Romance,https://img.static-ottera.com/prod/run/linear_ch
 MTV Live,MTV Live
 M+ Liga de Campeones HDR,M+ Liga de Campeones HDR
 M+ Liga de Campeones 2 HDR,M+ Liga de Campeones 2 HDR
+Garage TV,Garage TV
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
