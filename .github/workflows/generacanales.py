@@ -126,7 +126,7 @@ TCM HD,TCM
 Canal Hollywood HD,Canal Hollywood
 M+ Hits HD,M+ Hits
 STAR Channel HD,STAR Channel
-Max Avances,Max Avances
+Max Avances,HBO Max Avances
 AXN HD,AXN
 AXN Movies HD,AXN Movies
 Warner TV HD,Warner TV
