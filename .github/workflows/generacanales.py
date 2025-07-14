@@ -269,6 +269,7 @@ M+ Liga de Campeones HDR,M+ Liga de Campeones HDR
 M+ Liga de Campeones 2 HDR,M+ Liga de Campeones 2 HDR
 Garage TV,Garage TV
 Veo7,Veo7
+VinTV,VinTV
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
