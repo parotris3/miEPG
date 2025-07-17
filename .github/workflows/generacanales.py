@@ -206,7 +206,7 @@ Dreamworks HD,Dreamworks
 24 Horas,24 Horas
 EuroNews,Euronews
 Teledeporte,Teledeporte
-GOL PLAY,GOL PLAY
+GOL PLAY,GOL
 Real Madrid TV,Real Madrid TV
 Eurosport 1 HD,Eurosport 1
 Eurosport 2,Eurosport 2
