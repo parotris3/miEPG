@@ -69,7 +69,7 @@ Flooxer,Flooxer
 Paramount Network,Paramount Network
 Sundance TV,Sundance TV
 DKISS,DKISS
-MTV España,MTV España
+MTV España,MTV
 Ten,Ten
 Be Mad,BE MAD
 Atreseries,Atreseries
@@ -117,7 +117,7 @@ DMAX,DMAX
 Discovery,Discovery
 Caza y Pesca HD,Caza y Pesca
 Iberalia TV,Iberalia TV
-Clan,Clan,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png
+Clan,Clan TVE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png
 Boing,Boing
 Baby TV,Baby TV
 Squirrel TV,Squirrel TV
@@ -129,7 +129,7 @@ Dreamworks HD,Dreamworks
 24 Horas,24 Horas
 EuroNews,Euronews
 Teledeporte,Teledeporte
-GOL PLAY,GOL PLAY
+GOL PLAY,GOL
 Real Madrid TV,Real Madrid TV
 Eurosport 1 HD,Eurosport 1
 Eurosport 2,Eurosport 2
