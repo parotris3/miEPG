@@ -146,7 +146,7 @@ Flooxer,Flooxer
 Paramount Network,Paramount Network
 Sundance TV,Sundance TV
 DKISS,DKISS
-MTV España,MTV España
+MTV España,MTV
 Ten,Ten
 Be Mad,BE MAD
 Atreseries,Atreseries
