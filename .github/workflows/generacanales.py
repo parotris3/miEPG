@@ -102,7 +102,7 @@ M+ PopUp 2,M+ PopUp 2,URLLOGOPOP2
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
 M+ Indie HD,M+ Indie
-Love TV Trailers,Trailers
+Love TV Trailers,Love TV Trailers
 5f1ac8099c49f600076579b2,Pluto TV Cine Comedia
 655b5d865812e80008843bd1,Pluto TV Cine Comedias Románticas
 5f1ac9a2d3611d0007a844bb,Pluto TV Cine Romántico
