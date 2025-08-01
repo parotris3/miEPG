@@ -1,5 +1,5 @@
-La 1 HD,La 1
-La 2,La 2
+La 1 HD,LA 1
+La 2,LA 2
 Antena 3 HD,Antena 3
 Cuatro HD,Cuatro
 Telecinco HD,Telecinco
@@ -25,7 +25,7 @@ M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarca
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
 M+ Indie HD,M+ Indie
-Love TV Trailers,Trailers
+Love TV Trailers,Love TV Trailers
 5f1ac8099c49f600076579b2,Pluto TV Cine Comedia
 655b5d865812e80008843bd1,Pluto TV Cine Comedias Románticas
 5f1ac9a2d3611d0007a844bb,Pluto TV Cine Romántico
@@ -129,7 +129,7 @@ Dreamworks HD,Dreamworks
 24 Horas,24 Horas
 EuroNews,Euronews
 Teledeporte,Teledeporte
-GOL PLAY,GOL
+GOL,GOL
 Real Madrid TV,Real Madrid TV
 Eurosport 1 HD,Eurosport 1
 Eurosport 2,Eurosport 2
