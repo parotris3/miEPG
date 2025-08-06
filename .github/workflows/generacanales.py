@@ -271,6 +271,7 @@ Garage TV,El Garage TV
 Veo7,Veo7
 VinTV,VinTV
 El Toro TV,El Toro TV
+M+ LaLiga HDR. M+ LALIGA HDR
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
@@ -301,5 +302,6 @@ El Toro TV,El Toro TV
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
 
 
