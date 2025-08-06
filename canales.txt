@@ -39,7 +39,7 @@ BOM Cine,Bom Cine
 Somos,Somos
 Cines Verdi TV,Cines Verdi TV
 Cine Feel Good,Cine Feel Good
-acontra+,acontra+
+Acontra+,acontra+
 Clásicos atresplayer,Clásicos atresplayer
 Multicine atresplayer,Multicine atresplayer
 Comedia atresplayer,Comedia atresplayer
