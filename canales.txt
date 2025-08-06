@@ -49,7 +49,7 @@ TCM HD,TCM
 Canal Hollywood HD,Canal Hollywood
 M+ Hits HD,M+ Hits
 STAR Channel HD,STAR Channel
-Max Avances,HBO Max Avances
+HBO Max Avances,HBO Max Avances
 AXN HD,AXN
 AXN Movies HD,AXN Movies
 Warner TV HD,Warner TV
@@ -190,6 +190,8 @@ Runtime Romance,Runtime Romance,https://img.static-ottera.com/prod/run/linear_ch
 MTV Live,MTV Live
 M+ Liga de Campeones HDR,M+ Liga de Campeones HDR
 M+ Liga de Campeones 2 HDR,M+ Liga de Campeones 2 HDR
-Garage TV,Garage TV
+Garage TV,El Garage TV
 Veo7,Veo7
 VinTV,VinTV
+El Toro TV,El Toro TV
+M+ LaLiga HDR. M+ LALIGA HDR
