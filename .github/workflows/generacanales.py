@@ -126,7 +126,7 @@ TCM HD,TCM
 Canal Hollywood HD,Canal Hollywood
 M+ Hits HD,M+ Hits
 STAR Channel HD,STAR Channel
-Max Avances,HBO Max Avances
+HBO Max Avances,HBO Max Avances
 AXN HD,AXN
 AXN Movies HD,AXN Movies
 Warner TV HD,Warner TV
@@ -300,3 +300,4 @@ VinTV,VinTV
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
