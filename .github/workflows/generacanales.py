@@ -116,7 +116,7 @@ BOM Cine,Bom Cine
 Somos,Somos
 Cines Verdi TV,Cines Verdi TV
 Cine Feel Good,Cine Feel Good
-acontra+,acontra+
+Acontra+,acontra+
 Clásicos atresplayer,Clásicos atresplayer
 Multicine atresplayer,Multicine atresplayer
 Comedia atresplayer,Comedia atresplayer
@@ -302,6 +302,7 @@ M+ LaLiga HDR. M+ LALIGA HDR
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
 
 
 
