@@ -217,10 +217,10 @@ DAZN 4 HD,DAZN 4
 DAZN F1 HD,DAZN F1
 DAZN LaLiga HD,DAZN LaLiga
 DAZN LaLiga 2 HD,DAZN LaLiga 2
-M+ LaLiga HD,M+ LALIGA TV
+M+ LaLiga HD,M+ LALIGA
 M+ LaLiga TV UHD,M+ LALIGA TV UHD
-M+ LaLiga 2 HD,M+ LALIGA TV 2
-M+ LaLiga 3 HD,M+ LALIGA TV 3
+M+ LaLiga 2 HD,M+ LALIGA 2
+M+ LaLiga 3 HD,M+ LALIGA 3
 M+ Copa del Rey,M+ Copa del Rey
 LaLiga TV Hypermotion HD,LALIGA TV HYPERMOTION
 LaLiga TV Hypermotion 2,LALIGA TV HYPERMOTION 2
@@ -266,12 +266,12 @@ Runtime Comedia,Runtime Comedia,https://img.static-ottera.com/prod/run/linear_ch
 Runtime Romance,Runtime Romance,https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg
 MTV Live,MTV Live
 M+ Liga de Campeones HDR,M+ Liga de Campeones HDR
-M+ Liga de Campeones 2 HDR,M+ Liga de Campeones 2 HDR
+M+ Liga de Campeones 2 HDR,M+ Liga de Campeones2 HDR
 Garage TV,El Garage TV
 Veo7,Veo7
 VinTV,VinTV
 El Toro TV,El Toro TV
-M+ LaLiga HDR. M+ LALIGA HDR
+M+ LaLiga HDR,M+ LALIGA HDR
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
@@ -302,6 +302,7 @@ M+ LaLiga HDR. M+ LALIGA HDR
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
 
 
 
