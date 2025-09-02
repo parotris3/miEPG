@@ -221,7 +221,7 @@ M+ LaLiga HD,M+ LALIGA
 M+ LaLiga TV UHD,M+ LALIGA TV UHD
 M+ LaLiga 2 HD,M+ LALIGA 2
 M+ LaLiga 3 HD,M+ LALIGA 3
-M+ Copa del Rey,M+ Copa del Rey
+Primera Federación, Primera Federación
 LaLiga TV Hypermotion HD,LALIGA TV HYPERMOTION
 LaLiga TV Hypermotion 2,LALIGA TV HYPERMOTION 2
 LaLiga TV Hypermotion 3,LALIGA TV HYPERMOTION 3
@@ -302,6 +302,7 @@ M+ LaLiga HDR,M+ LALIGA HDR
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
 
 
 
