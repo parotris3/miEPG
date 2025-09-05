@@ -19,7 +19,7 @@ M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
 M+ Vacaciones,M+ Vacaciones,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MVCIVA
-M+ Wéstern,M+ Wéstern,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MWEST
+M+ Cómic,M+ Cómic,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MWEST
 M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MVCIVA
 M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MWEST
 M+ Clásicos HD,M+ Clásicos
