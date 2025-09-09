@@ -18,10 +18,10 @@ M+ Estrenos HD,M+ Estrenos
 M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
-M+ Vacaciones,M+ Vacaciones,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MVCIVA
-M+ Cómic,M+ Cómic,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MWEST
-M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MVCIVA
-M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MWEST
+M+ San Sebastián,M+ San Sebastián,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MSANSE
+M+ Cómic,M+ Cómic,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCOMIC
+M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MSANSE
+M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCOMIC
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
 M+ Indie HD,M+ Indie
