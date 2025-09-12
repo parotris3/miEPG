@@ -195,3 +195,4 @@ Veo7,Veo7
 VinTV,VinTV
 El Toro TV,El Toro TV
 M+ LaLiga HDR,M+ LALIGA HDR
+AMC+ Connect,AMC+ Connect
