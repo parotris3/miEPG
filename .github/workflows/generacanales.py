@@ -272,6 +272,7 @@ Veo7,Veo7
 VinTV,VinTV
 El Toro TV,El Toro TV
 M+ LaLiga HDR,M+ LALIGA HDR
+AMC+ Connect,AMC+ Connect
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
@@ -302,6 +303,7 @@ M+ LaLiga HDR,M+ LALIGA HDR
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
 
 
 
