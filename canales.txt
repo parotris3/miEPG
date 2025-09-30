@@ -18,8 +18,8 @@ M+ Estrenos HD,M+ Estrenos
 M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
-M+ San Sebastián,M+ San Sebastián,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MSANSE
-M+ Cómic,M+ Cómic,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCOMIC
+M+ Terror,M+ Terror,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MSANSE
+M+ Romance,M+ Romance,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCOMIC
 M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MSANSE
 M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCOMIC
 M+ Clásicos HD,M+ Clásicos
