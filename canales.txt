@@ -196,3 +196,5 @@ VinTV,VinTV
 El Toro TV,El Toro TV
 M+ LaLiga HDR,M+ LALIGA HDR
 AMC+ Connect,AMC+ Connect
+BBC Earth,BBC Earth
+BBC Lifestyle,BBC Lifestyle
