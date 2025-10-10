@@ -273,6 +273,8 @@ VinTV,VinTV
 El Toro TV,El Toro TV
 M+ LaLiga HDR,M+ LALIGA HDR
 AMC+ Connect,AMC+ Connect
+BBC Earth,BBC Earth
+BBC Lifestyle,BBC Lifestyle
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
@@ -303,6 +305,7 @@ AMC+ Connect,AMC+ Connect
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
 
 
 
