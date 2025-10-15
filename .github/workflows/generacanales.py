@@ -83,8 +83,8 @@ Telecinco HD,Telecinco
 La Sexta HD,La Sexta
 TVG,TVG
 TVG2,TVG 2
-TPA7 Asturias,TPA7 Asturias
-TPA8 Asturias,TPA8 Asturias
+TPA7 Asturias,TPA7
+TPA8 Asturias,TPA8
 M+ Vamos HD,M+ Vamos
 M+ Ellas Vamos HD,M+ Ellas V
 Movistar Plus+ HD,Movistar Plus+
@@ -306,6 +306,7 @@ BBC Lifestyle,BBC Lifestyle
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
 
 
 
