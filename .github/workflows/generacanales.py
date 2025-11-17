@@ -88,7 +88,6 @@ TPA8 Asturias,TPA8
 M+ Vamos HD,M+ Vamos
 M+ Ellas Vamos HD,M+ Ellas V
 Movistar Plus+ HD,Movistar Plus+
-Movistar Plus+ 2 HD,Movistar Plus+ 2
 M+ Originales HD,M+ Originales
 M+ Documentales HD,M+ Documentales
 M+ Estrenos HD,M+ Estrenos
@@ -258,7 +257,6 @@ PT | DAZN 6,DAZN 6 Portugal
 65786d29dfed030008ce2fa7,MTV Rock
 668677f7fd9eb200087b673a,MTV Biggest Pop
 BBC Drama,BBC Drama
-BBC Drama,BBC Series
 BBC Food,BBC Food
 BBC History,BBC History
 BBC Top Gear,BBC Top Gear
@@ -276,6 +274,8 @@ M+ LaLiga HDR,M+ LALIGA HDR
 AMC+ Connect,AMC+ Connect
 BBC Earth,BBC Earth
 BBC Lifestyle,BBC Lifestyle
+BBC Series,BBC Series
+M+ Vamos 2,M+ Vamos 2
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
@@ -306,6 +306,7 @@ BBC Lifestyle,BBC Lifestyle
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
 
 
 
