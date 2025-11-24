@@ -276,6 +276,9 @@ BBC Earth,BBC Earth
 BBC Lifestyle,BBC Lifestyle
 BBC Series,BBC Series
 M+ Vamos 2,M+ Vamos 2
+Anime Visión,Anime Visión
+Anime Visión Classics,Anime Visión Classics
+100% Navidad (Rakuten TV),100% Navidad (Rakuten TV)
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
@@ -306,6 +309,7 @@ M+ Vamos 2,M+ Vamos 2
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
 
 
 
