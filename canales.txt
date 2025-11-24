@@ -199,3 +199,6 @@ BBC Earth,BBC Earth
 BBC Lifestyle,BBC Lifestyle
 BBC Series,BBC Series
 M+ Vamos 2,M+ Vamos 2
+Anime Visión,Anime Visión
+Anime Visión Classics,Anime Visión Classics
+100% Navidad (Rakuten TV),100% Navidad (Rakuten TV)
