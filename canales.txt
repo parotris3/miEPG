@@ -17,7 +17,7 @@ M+ Estrenos HD,M+ Estrenos
 M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
-M+E: Nicolas Cage,M+E: Nicolas Cage,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCAGE
+M+ Navidad,M+ Navidad,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCAGE
 M+ En juego,M+ En juego,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MDEPOR
 M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCAGE
 M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MDEPOR
