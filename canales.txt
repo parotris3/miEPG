@@ -18,7 +18,7 @@ M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
 M+ Navidad,M+ Navidad,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MNAVID
-M+ En juego,M+ En juego,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MDEPOR
+M+ BBC Earth,M+ BBC Earth,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MDEPOR
 M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MNAVID
 M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MDEPOR
 M+ Clásicos HD,M+ Clásicos
