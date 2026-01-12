@@ -279,8 +279,8 @@ M+ Vamos 2,M+ Vamos 2
 Anime Visión,Anime Visión
 Anime Visión Classics,Anime Visión Classics
 100% Navidad (Rakuten TV),100% Navidad
-Canal FlixOlé 1, Canal FlixOlé 1
-Canal FlixOlé 2, Canal FlixOlé 2
+Canal FlixOlé 1,Canal FlixOlé 1
+Canal FlixOlé 2,Canal FlixOlé 2
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
@@ -311,6 +311,7 @@ Canal FlixOlé 2, Canal FlixOlé 2
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
 
 
 
