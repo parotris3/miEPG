@@ -17,9 +17,9 @@ M+ Estrenos HD,M+ Estrenos
 M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
-M+ Navidad,M+ Navidad,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MNAVID
-M+ BBC Earth,M+ BBC Earth,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MBBC
-M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MNAVID
+M+ Tierra Media,M+ Tierra Media,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTIME
+M+ Cine bélico,M+ Cine bélico,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MBBC
+M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTIME
 M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MBBC
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
