@@ -284,6 +284,9 @@ Canal FlixOlé 2,Canal FlixOlé 2
 DAZN Baloncesto,DAZN Baloncesto
 DAZN Baloncesto 2,DAZN Baloncesto 2
 DAZN Baloncesto 3,DAZN Baloncesto 3
+Fútbol 1,Fútbol 1 Orange
+Fútbol 2,Fútbol 2 Orange
+Fútbol 3,Fútbol 3 Orange
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
@@ -314,6 +317,7 @@ DAZN Baloncesto 3,DAZN Baloncesto 3
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
 
 
 
