@@ -204,3 +204,9 @@ Anime Visión Classics,Anime Visión Classics
 100% Navidad (Rakuten TV),100% Navidad
 Canal FlixOlé 1,Canal FlixOlé 1
 Canal FlixOlé 2,Canal FlixOlé 2
+DAZN Baloncesto,DAZN Baloncesto
+DAZN Baloncesto 2,DAZN Baloncesto 2
+DAZN Baloncesto 3,DAZN Baloncesto 3
+Fútbol 1,Fútbol 1 Orange
+Fútbol 2,Fútbol 2 Orange
+Fútbol 3,Fútbol 3 Orange
