@@ -288,6 +288,7 @@ Fútbol 1,Fútbol 1 Orange
 Fútbol 2,Fútbol 2 Orange
 Fútbol 3,Fútbol 3 Orange
 Historia y Vida,Historia y Vida
+Squirrel 2,Squirrel 2
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
@@ -318,3 +319,4 @@ Historia y Vida,Historia y Vida
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
