@@ -18,9 +18,9 @@ M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
 M+ Tierra Media,M+ Tierra Media,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTIME
-M+ Cine bélico,M+ Cine bélico,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MBBC
+M+ Cine bélico,M+ Cine bélico,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCIBE
 M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTIME
-M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MBBC
+M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCIBE
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
 M+ Indie HD,M+ Indie
