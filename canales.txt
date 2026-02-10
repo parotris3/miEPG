@@ -17,9 +17,9 @@ M+ Estrenos HD,M+ Estrenos
 M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
-M+ Los Goya,M+ Los Goya,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTIME
+M+ Los Goya,M+ Los Goya,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MGOYA
 M+ Cine bélico,M+ Cine bélico,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCIBE
-M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTIME
+M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MGOYA
 M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCIBE
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
