@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/tiviepg.xml
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/es.xml
 https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/refs/heads/main/epg/RakutenTV.xml.gz
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/epg/es.xml.gz
