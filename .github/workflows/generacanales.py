@@ -111,6 +111,7 @@ Love TV Trailers,Love TV Trailers
 5f1ac2591dd8880007bb7d6d,Pluto TV Cine Acción
 6385e82900ab2e000768a058,Pluto TV Western
 6304f530440dc90007f514d3,Poirot y Miss Marple
+690dd10a37b131228d76d5b1,El Mueble
 BOM Cine,Bom Cine
 Somos,Somos
 Cines Verdi TV,Cines Verdi TV
@@ -319,6 +320,7 @@ Squirrel 2,Squirrel 2
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
 
 
 
