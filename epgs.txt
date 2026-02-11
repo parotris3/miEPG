@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/parotris3/epg-acontra/refs/heads/main/acontra_plus.xml
 https://raw.githubusercontent.com/parotris3/epg-f-orange/refs/heads/main/orange.xml
 https://raw.githubusercontent.com/parotris3/epg-popups/refs/heads/main/popups.xml
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
