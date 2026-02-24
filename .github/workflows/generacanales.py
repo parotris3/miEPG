@@ -86,7 +86,7 @@ TVG2,TVG 2
 TPA7 Asturias,TPA7
 TPA8 Asturias,TPA8
 M+ Vamos HD,M+ Vamos
-M+ Ellas Vamos HD,M+ Ellas V
+M+ Vamos 3,M+ Vamos 3
 Movistar Plus+ HD,Movistar Plus+
 M+ Originales HD,M+ Originales
 M+ Documentales HD,M+ Documentales
@@ -320,6 +320,7 @@ Squirrel 2,Squirrel 2
 
 if __name__ == "__main__":
     crear_archivo_canales()
+
 
 
 
