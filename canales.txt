@@ -9,7 +9,7 @@ TVG2,TVG 2
 TPA7 Asturias,TPA7
 TPA8 Asturias,TPA8
 M+ Vamos HD,M+ Vamos
-M+ Ellas Vamos HD,M+ Ellas V
+M+ Vamos 3,M+ Vamos 3
 Movistar Plus+ HD,Movistar Plus+
 M+ Originales HD,M+ Originales
 M+ Documentales HD,M+ Documentales
@@ -213,3 +213,4 @@ Fútbol 2,Fútbol 2 Orange
 Fútbol 3,Fútbol 3 Orange
 Historia y Vida,Historia y Vida
 Squirrel 2,Squirrel 2
+DAZN MotoGP,DAZN MotoGP
