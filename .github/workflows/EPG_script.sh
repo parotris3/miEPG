@@ -81,7 +81,9 @@ do
     sed -i "s# channel=\"${old}\"##g" EPG_temp02.xml
     sed -i "/<programme/a EPG_temp channel=\"${new}\">" EPG_temp02.xml
     sed -i ':a;N;$!ba;s/\nEPG_temp//g' EPG_temp02.xml
-
+    
+    sed -i 's/\(<desc[^>]*>\) *([^)]*) */\1/' EPG_temp02.xml
+    
     cat EPG_temp02.xml >> EPG_temp2.xml
 
   done < canales.txt
