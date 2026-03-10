@@ -17,9 +17,9 @@ M+ Estrenos HD,M+ Estrenos
 M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
-M+ Los 2000,M+ Los 2000,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MGOYA
+M+ Los 2000,M+ Los 2000,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/L2000
 M+ Oscars,M+ Oscars,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MOSCAR
-M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MGOYA
+M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/L2000
 M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MOSCAR
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
