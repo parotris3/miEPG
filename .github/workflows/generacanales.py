@@ -291,6 +291,7 @@ Fútbol 3,Fútbol 3 Orange
 Historia y Vida,Historia y Vida
 Squirrel 2,Squirrel 2
 DAZN MotoGP,DAZN MotoGP
+M+ Cero,M+ Cero
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
