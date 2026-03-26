@@ -18,9 +18,9 @@ M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
 M+ Los 2000,M+ Los 2000,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/L2000
-M+ Top comedia española,M+ Top comedia española,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MOSCAR
+M+ Top Comedia Española,M+ Top Comedia Española,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TOPCOM
 M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/L2000
-M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MOSCAR
+M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TOPCOM
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
 M+ Indie HD,M+ Indie
