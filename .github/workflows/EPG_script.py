@@ -81,14 +81,16 @@ for old_id, new_id, logo in canales:
     if old_id in seen_old_ids:
         continue
     
-    # 5.1. Buscar el canal en los EPGs descargados (usamos la 1ª coincidencia)
+    # 5.1. Buscar el canal en los EPGs descargados (Búsqueda segura anti-comillas)
     channel_element = None
     source_root = None
     for root in new_trees:
-        ch = root.find(f".//channel[@id='{old_id}']")
-        if ch is not None:
-            channel_element = ch
-            source_root = root
+        for ch in root.findall('channel'):
+            if ch.get('id') == old_id:
+                channel_element = ch
+                source_root = root
+                break
+        if channel_element is not None:
             break
     
     # 5.2. Construir el bloque <channel>
@@ -105,23 +107,24 @@ for old_id, new_id, logo in canales:
     final_channels.append(new_ch_element)
     seen_old_ids.add(old_id)
 
-    # 5.3. Recopilar programas NUEVOS para este canal
+    # 5.3. Recopilar programas NUEVOS para este canal (Búsqueda segura)
     new_progs_for_channel = []
     if source_root is not None:
-        for prog in source_root.findall(f".//programme[@channel='{old_id}']"):
-            start_t = parse_time(prog.get('start'))
-            stop_t = parse_time(prog.get('stop'))
-            
-            # Filtrar por fecha
-            if stop_t >= min_date and start_t <= max_date:
-                prog.set('channel', new_id)
+        for prog in source_root.findall('programme'):
+            if prog.get('channel') == old_id:
+                start_t = parse_time(prog.get('start'))
+                stop_t = parse_time(prog.get('stop'))
                 
-                # Replicar el comportamiento de tu antiguo 'sed' para limpiar el <desc>
-                desc = prog.find('desc')
-                if desc is not None and desc.text:
-                    desc.text = re.sub(r'^\s*\([^)]*\)\s*', '', desc.text)
-                
-                new_progs_for_channel.append(prog)
+                # Filtrar por fecha
+                if stop_t >= min_date and start_t <= max_date:
+                    prog.set('channel', new_id)
+                    
+                    # Limpiar descripción
+                    desc = prog.find('desc')
+                    if desc is not None and desc.text:
+                        desc.text = re.sub(r'^\s*\([^)]*\)\s*', '', desc.text)
+                    
+                    new_progs_for_channel.append(prog)
 
     # 5.4. Lógica de Solapamientos (Nuevos vs Viejos)
     historical_progs = old_programmes.get(new_id, [])
@@ -129,9 +132,9 @@ for old_id, new_id, logo in canales:
     def is_overlap(p1, p2):
         s1, e1 = parse_time(p1.get('start')), parse_time(p1.get('stop'))
         s2, e2 = parse_time(p2.get('start')), parse_time(p2.get('stop'))
-        return s1 < e2 and e1 > s2 # Fórmula clásica de solapamiento de intervalos
+        return s1 < e2 and e1 > s2
 
-    merged_progs = list(new_progs_for_channel) # Los datos nuevos SIEMPRE tienen prioridad
+    merged_progs = list(new_progs_for_channel)
     
     # Añadimos los programas del historial SOLO si no pisan a ningún programa nuevo
     for old_p in historical_progs:
