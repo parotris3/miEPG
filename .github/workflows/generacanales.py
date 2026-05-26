@@ -198,7 +198,7 @@ Clan,Clan TVE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/i
 Boing,Boing
 Baby TV,Baby TV
 Squirrel TV,Squirrel TV
-Disney Junior,Disney Junior
+Disney Channel,Disney Channel
 Enfamilia,Enfamilia
 Nickelodeon HD,Nickelodeon
 Nick JR,NICK JR
