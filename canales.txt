@@ -17,8 +17,8 @@ M+ Estrenos HD,M+ Estrenos
 M+ Comedia HD,M+ Comedia
 M+ Drama HD,M+ Drama
 M+ Acción HD,M+ Acción
-M+ Los 2000,M+ Los 2000,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/L2000
-M+ Top Comedia Española,M+ Top Comedia Española,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TOPCOM
+M+ Vacaciones,M+ Vacaciones,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/L2000
+M+ Orgullo,M+ Orgullo,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TOPCOM
 M+ PopUp,M+ PopUp,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/L2000
 M+ PopUp 2,M+ PopUp 2,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TOPCOM
 M+ Clásicos HD,M+ Clásicos
