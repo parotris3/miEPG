@@ -10,7 +10,7 @@ TPA7 Asturias,TPA7
 TPA8 Asturias,TPA8
 M+ Vamos HD,M+ Vamos
 M+ Vamos 3,M+ Vamos 3
-Movistar Plus+ HD,Movistar Plus+
+Movistar Plus+ HD,Movistar Plus
 M+ Originales HD,M+ Originales
 M+ Documentales HD,M+ Documentales
 M+ Estrenos HD,M+ Estrenos
@@ -121,7 +121,7 @@ Clan,Clan TVE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/i
 Boing,Boing
 Baby TV,Baby TV
 Squirrel TV,Squirrel TV
-Disney Junior,Disney Junior
+Disney Channel,Disney Channel
 Enfamilia,Enfamilia
 Nickelodeon HD,Nickelodeon
 Nick JR,NICK JR
@@ -214,4 +214,5 @@ Fútbol 3,Fútbol 3 Orange
 Historia y Vida,Historia y Vida
 Squirrel 2,Squirrel 2
 DAZN MotoGP,DAZN MotoGP
-M+ Cero,M+ Cero
+M+ Cero,M+ Cero,
+LALIGA Inside,LALIGA Inside
