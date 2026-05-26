@@ -87,7 +87,7 @@ TPA7 Asturias,TPA7
 TPA8 Asturias,TPA8
 M+ Vamos HD,M+ Vamos
 M+ Vamos 3,M+ Vamos 3
-Movistar Plus+ HD,Movistar Plus+
+Movistar Plus+ HD,Movistar Plus
 M+ Originales HD,M+ Originales
 M+ Documentales HD,M+ Documentales
 M+ Estrenos HD,M+ Estrenos
