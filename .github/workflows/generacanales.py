@@ -293,6 +293,7 @@ Squirrel 2,Squirrel 2
 DAZN MotoGP,DAZN MotoGP
 M+ Cero,M+ Cero,
 LALIGA Inside,LALIGA Inside
+M+ Fanzone,M+ Fanzone
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
