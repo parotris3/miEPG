@@ -294,6 +294,10 @@ DAZN MotoGP,DAZN MotoGP
 M+ Cero,M+ Cero,
 LALIGA Inside,LALIGA Inside
 M+ Fanzone,M+ Fanzone
+DAZN Mundial HD,DAZN MUNDIAL
+DAZN Mundial 2 HD,DAZN MUNDIAL 2
+DAZN Mundial 3,DAZN MUNDIAL 3
+DAZN Mundial 4,DAZN MUNDIAL 4 
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
